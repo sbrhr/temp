@@ -1,0 +1,623 @@
+{
+  "frames": [
+    {
+      "id": "2421:5265",
+      "name": "employee view",
+      "type": "SECTION",
+      "path": "      🌴  Employee view > employee view",
+      "width": 4179,
+      "height": 3289,
+      "depth": 1
+    },
+    {
+      "id": "328:4917",
+      "name": "Time off response (approved)",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off response (approved)",
+      "width": 1920,
+      "height": 1280,
+      "depth": 1
+    },
+    {
+      "id": "328:5094",
+      "name": "Time off response (denied)",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off response (denied)",
+      "width": 1920,
+      "height": 1280,
+      "depth": 1
+    },
+    {
+      "id": "328:4895",
+      "name": "Time off request",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off request",
+      "width": 1920,
+      "height": 1142,
+      "depth": 1
+    },
+    {
+      "id": "328:4942",
+      "name": "Time off alert manager/admin",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off alert manager/admin",
+      "width": 1920,
+      "height": 1142,
+      "depth": 1
+    },
+    {
+      "id": "88:3114",
+      "name": "3.0.0 - Calendar – Home/table - Default",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 3.0.0 - Calendar – Home/table - Default",
+      "width": 1440,
+      "height": 920,
+      "depth": 1
+    },
+    {
+      "id": "80:12251",
+      "name": "2.1.1 - Time off request - Create - Filled default ",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.1 - Time off request - Create - Filled default ",
+      "width": 408,
+      "height": 1110,
+      "depth": 1
+    },
+    {
+      "id": "322:11044",
+      "name": "2.1.2 - Time off request - Create - Filled active",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.2 - Time off request - Create - Filled active",
+      "width": 408,
+      "height": 1110,
+      "depth": 1
+    },
+    {
+      "id": "335:9984",
+      "name": "2.1.3 - Time off request - Create - With attachement",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.3 - Time off request - Create - With attachement",
+      "width": 408,
+      "height": 958,
+      "depth": 1
+    },
+    {
+      "id": "288:16001",
+      "name": "2.2.0 - Time off request - Edit - Default ",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.2.0 - Time off request - Edit - Default ",
+      "width": 408,
+      "height": 900,
+      "depth": 1
+    },
+    {
+      "id": "322:11847",
+      "name": "2.3.0 - Time off request - View - Past ",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.3.0 - Time off request - View - Past ",
+      "width": 408,
+      "height": 900,
+      "depth": 1
+    },
+    {
+      "id": "328:4973",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 1024,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "80:12125",
+      "name": "2.1.0 - Time off request - Create - Default",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.0 - Time off request - Create - Default",
+      "width": 408,
+      "height": 868,
+      "depth": 1
+    },
+    {
+      "id": "328:4976",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 687,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "328:4970",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 599,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "88:2840",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 554,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "88:2863",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 500,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "88:3323",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 474,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "175:8265",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > screen-info",
+      "width": 474,
+      "height": 356,
+      "depth": 1
+    },
+    {
+      "id": "328:4966",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 274,
+      "depth": 1
+    },
+    {
+      "id": "85:3447",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 1
+    },
+    {
+      "id": "88:3105",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 1
+    },
+    {
+      "id": "84:5235",
+      "name": "1.1.0 - Events balance – Listing - Default",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > 1.1.0 - Events balance – Listing - Default",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "88:2888",
+      "name": "1.0.0 - Events balance – Listing - Empty",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "88:3115",
+      "name": "content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 3.0.0 - Calendar – Home/table - Default > content",
+      "width": 1224,
+      "height": 853,
+      "depth": 2
+    },
+    {
+      "id": "98:8781",
+      "name": "1.2.1 - Balance details – View - Default",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > 1.2.1 - Balance details – View - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "175:7968",
+      "name": "1.2.0 - Balance details – View - Empty",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > 1.2.0 - Balance details – View - Empty",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "328:5054",
+      "name": "Frame 17",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off response (approved) > Frame 17",
+      "width": 665,
+      "height": 1010,
+      "depth": 2
+    },
+    {
+      "id": "328:5095",
+      "name": "Frame 17",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off response (denied) > Frame 17",
+      "width": 665,
+      "height": 1010,
+      "depth": 2
+    },
+    {
+      "id": "328:5025",
+      "name": "Frame 17",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off alert manager/admin > Frame 17",
+      "width": 665,
+      "height": 960,
+      "depth": 2
+    },
+    {
+      "id": "328:4896",
+      "name": "Frame 16",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > Time off request > Frame 16",
+      "width": 665,
+      "height": 928,
+      "depth": 2
+    },
+    {
+      "id": "80:12253",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.1 - Time off request - Create - Filled default  > Content",
+      "width": 408,
+      "height": 966,
+      "depth": 2
+    },
+    {
+      "id": "335:10510",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.2 - Time off request - Create - Filled active > Content",
+      "width": 408,
+      "height": 966,
+      "depth": 2
+    },
+    {
+      "id": "322:11849",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.3.0 - Time off request - View - Past  > Content",
+      "width": 408,
+      "height": 828,
+      "depth": 2
+    },
+    {
+      "id": "335:9986",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.3 - Time off request - Create - With attachement > Content",
+      "width": 408,
+      "height": 814,
+      "depth": 2
+    },
+    {
+      "id": "288:16003",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.2.0 - Time off request - Edit - Default  > Content",
+      "width": 408,
+      "height": 738,
+      "depth": 2
+    },
+    {
+      "id": "80:12127",
+      "name": "Content",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.0 - Time off request - Create - Default > Content",
+      "width": 408,
+      "height": 724,
+      "depth": 2
+    },
+    {
+      "id": "88:2871",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > flow-info",
+      "width": 614,
+      "height": 340,
+      "depth": 2
+    },
+    {
+      "id": "88:3181",
+      "name": "sidebar/payroll",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 3.0.0 - Calendar – Home/table - Default > sidebar/payroll",
+      "width": 216,
+      "height": 920,
+      "depth": 2
+    },
+    {
+      "id": "88:3097",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > screen-info",
+      "width": 403,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "88:2880",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > employee view > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "322:11149",
+      "name": "Frame 1000002833",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > 2.1.2 - Time off request - Create - Filled active > Frame 1000002833",
+      "width": 241,
+      "height": 288,
+      "depth": 2
+    },
+    {
+      "id": "80:12126",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.0 - Time off request - Create - Default > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "80:12175",
+      "name": "Drawer/ Footer",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.0 - Time off request - Create - Default > Drawer/ Footer",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "335:9985",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.3 - Time off request - Create - With attachement > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "335:10059",
+      "name": "Drawer/ Footer",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.3 - Time off request - Create - With attachement > Drawer/ Footer",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "80:12252",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.1 - Time off request - Create - Filled default  > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "80:12435",
+      "name": "Drawer/ Footer",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.1 - Time off request - Create - Filled default  > Drawer/ Footer",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "322:11045",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.2 - Time off request - Create - Filled active > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "322:11148",
+      "name": "Drawer/ Footer",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.1.2 - Time off request - Create - Filled active > Drawer/ Footer",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "288:16196",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.2.0 - Time off request - Edit - Default  > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "288:16458",
+      "name": "Drawer/ Footer",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.2.0 - Time off request - Edit - Default  > Drawer/ Footer",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "322:11848",
+      "name": "Drawer/ Header",
+      "type": "INSTANCE",
+      "path": "      🌴  Employee view > 2.3.0 - Time off request - View - Past  > Drawer/ Header",
+      "width": 408,
+      "height": 72,
+      "depth": 2
+    },
+    {
+      "id": "85:3448",
+      "name": "safe area",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info > safe area",
+      "width": 211,
+      "height": 104,
+      "depth": 2
+    },
+    {
+      "id": "88:3106",
+      "name": "safe area",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info > safe area",
+      "width": 211,
+      "height": 104,
+      "depth": 2
+    },
+    {
+      "id": "328:4967",
+      "name": "safe area",
+      "type": "FRAME",
+      "path": "      🌴  Employee view > flow-info > safe area",
+      "width": 211,
+      "height": 104,
+      "depth": 2
+    }
+  ],
+  "imageFills": [
+    {
+      "nodeId": "328:4964",
+      "nodeName": "image 5",
+      "imageRef": "5ea98aeb50a5ecaf0e63b05ea4d346db681a8bf8",
+      "path": "      🌴  Employee view > Time off alert manager/admin > image 5",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 1665,
+        "height": 62
+      }
+    },
+    {
+      "nodeId": "407:10534",
+      "nodeName": "Rectangle",
+      "imageRef": "8c1cca97527f93c45915c4ecd7af11fc3fdc71c3",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 31.167816162109375,
+        "height": 60.610931396484375
+      }
+    },
+    {
+      "nodeId": "407:10555",
+      "nodeName": "Rectangle",
+      "imageRef": "6d54e7c5e60710332feed12f736fcf7ec973adab",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.69389724731445
+      }
+    },
+    {
+      "nodeId": "407:10557",
+      "nodeName": "Rectangle",
+      "imageRef": "29fbcf80862965d9bac94768a9edad2097f94645",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10559",
+      "nodeName": "Rectangle",
+      "imageRef": "aad8acbf7028f51a2e17824b7204d824d1477f54",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10561",
+      "nodeName": "Rectangle",
+      "imageRef": "535d43a482464d8bcbbe057a6f143717a078efc6",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10563",
+      "nodeName": "Rectangle",
+      "imageRef": "f248fd8b704c3614d2293328ffd5dbff47fee0b7",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10580",
+      "nodeName": "Rectangle",
+      "imageRef": "a615291ac1ee85949b2d54d416369c9eed71b158",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 101.6957778930664,
+        "height": 62.766807556152344
+      }
+    },
+    {
+      "nodeId": "407:10594",
+      "nodeName": "Rectangle",
+      "imageRef": "231b3148f022510b7744ac565ba8e4a765955328",
+      "path": "      🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 181.89439392089844,
+        "height": 172.03895568847656
+      }
+    }
+  ],
+  "totalCounts": {
+    "frames": {
+      "total": 56,
+      "rendered": 0,
+      "failed": 0
+    },
+    "imageFills": {
+      "total": 9,
+      "downloaded": 0,
+      "failed": 0
+    },
+    "textNodes": 838,
+    "components": 176
+  }
+}
