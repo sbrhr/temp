@@ -1,0 +1,1027 @@
+{
+  "frames": [
+    {
+      "id": "2421:5265",
+      "name": "employee view",
+      "type": "SECTION",
+      "path": "Document >       🌴  Employee view > employee view",
+      "width": 4179,
+      "height": 3289,
+      "depth": 2
+    },
+    {
+      "id": "591:21508",
+      "name": "Unnamed",
+      "type": "SECTION",
+      "path": "Document >       🔑  Admin view > Unnamed",
+      "width": 4437,
+      "height": 2066,
+      "depth": 2
+    },
+    {
+      "id": "328:4917",
+      "name": "Time off response (approved)",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > Time off response (approved)",
+      "width": 1920,
+      "height": 1280,
+      "depth": 2
+    },
+    {
+      "id": "328:5094",
+      "name": "Time off response (denied)",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > Time off response (denied)",
+      "width": 1920,
+      "height": 1280,
+      "depth": 2
+    },
+    {
+      "id": "281:12601",
+      "name": "2.5.0 - Policy configurations – Edit - Collapsed",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.5.0 - Policy configurations – Edit - Collapsed",
+      "width": 920,
+      "height": 2602,
+      "depth": 2
+    },
+    {
+      "id": "85:4247",
+      "name": "2.2.0 - Policy configurations – Create - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.2.0 - Policy configurations – Create - Default",
+      "width": 920,
+      "height": 2508,
+      "depth": 2
+    },
+    {
+      "id": "1036:10984",
+      "name": "2.2.0 - Policy configurations – Create - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.2.0 - Policy configurations – Create - Default",
+      "width": 920,
+      "height": 2476,
+      "depth": 2
+    },
+    {
+      "id": "328:4895",
+      "name": "Time off request",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > Time off request",
+      "width": 1920,
+      "height": 1142,
+      "depth": 2
+    },
+    {
+      "id": "328:4942",
+      "name": "Time off alert manager/admin",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > Time off alert manager/admin",
+      "width": 1920,
+      "height": 1142,
+      "depth": 2
+    },
+    {
+      "id": "263:9114",
+      "name": "2.4.1 - Policy configurations – View - Collapsed",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.4.1 - Policy configurations – View - Collapsed",
+      "width": 920,
+      "height": 2312,
+      "depth": 2
+    },
+    {
+      "id": "1:49",
+      "name": "Cover",
+      "type": "FRAME",
+      "path": "Document > 🟣  Cover  > Cover",
+      "width": 1920,
+      "height": 960,
+      "depth": 2
+    },
+    {
+      "id": "161:5555",
+      "name": "1.1.0 - Events requests – Listing - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 1.1.0 - Events requests – Listing - Default",
+      "width": 1440,
+      "height": 1171,
+      "depth": 2
+    },
+    {
+      "id": "322:6579",
+      "name": "2.1.1 - Policy configurations – Lisitng - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.1.1 - Policy configurations – Lisitng - Default",
+      "width": 1440,
+      "height": 1154,
+      "depth": 2
+    },
+    {
+      "id": "288:16804",
+      "name": "3.1.0 Transactions - Lisitng - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.1.0 Transactions - Lisitng - Default",
+      "width": 1440,
+      "height": 1083,
+      "depth": 2
+    },
+    {
+      "id": "1126:8606",
+      "name": "3.1.1 - Holiday configurations – Lisitng - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.1.1 - Holiday configurations – Lisitng - Default",
+      "width": 1440,
+      "height": 1057,
+      "depth": 2
+    },
+    {
+      "id": "1188:1464",
+      "name": "3.1.2 - Holiday configurations – Lisitng - Filters",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.1.2 - Holiday configurations – Lisitng - Filters",
+      "width": 1440,
+      "height": 1057,
+      "depth": 2
+    },
+    {
+      "id": "161:11818",
+      "name": "1.2.0 - Events requests ��� Calendar view - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 1.2.0 - Events requests ��� Calendar view - Default",
+      "width": 1440,
+      "height": 1031,
+      "depth": 2
+    },
+    {
+      "id": "88:3114",
+      "name": "3.0.0 - Calendar – Home/table - Default",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 3.0.0 - Calendar – Home/table - Default",
+      "width": 1440,
+      "height": 920,
+      "depth": 2
+    },
+    {
+      "id": "180:4393",
+      "name": "1.1.1 - Category configurations – Listing - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.1.1 - Category configurations – Listing - Default",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "406:4599",
+      "name": "1.1.0 - Category configurations – Listing - Empty",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.1.0 - Category configurations – Listing - Empty",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "407:6901",
+      "name": "2.1.0 - Policy configurations – Lisitng - Empty",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.1.0 - Policy configurations – Lisitng - Empty",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "183:4635",
+      "name": "1.1.2 - Category configurations – Listing - Mosaic view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.1.2 - Category configurations – Listing - Mosaic view",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "322:6683",
+      "name": "2.1.2 - Policy configurations – Lisitng - Mosaic view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.1.2 - Policy configurations – Lisitng - Mosaic view",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:9878",
+      "name": "3.1.0 - Holiday configurations – Lisitng - Empty",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.1.0 - Holiday configurations – Lisitng - Empty",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:13420",
+      "name": "4.1.0 - Schedule configurations – Listing - Empty",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.1.0 - Schedule configurations – Listing - Empty",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:13502",
+      "name": "4.1.1 - Schedule configurations – Listing - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.1.1 - Schedule configurations – Listing - Default",
+      "width": 1440,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:13841",
+      "name": "4.4.0 - Schedule configurations – Edit - Collapsed",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.4.0 - Schedule configurations – Edit - Collapsed",
+      "width": 920,
+      "height": 1376,
+      "depth": 2
+    },
+    {
+      "id": "1126:14267",
+      "name": "4.3.1 - Schedule configurations – View - Collapsed",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.3.1 - Schedule configurations – View - Collapsed",
+      "width": 920,
+      "height": 1260,
+      "depth": 2
+    },
+    {
+      "id": "1126:13535",
+      "name": "4.2.0 - Schedule configurations – Create - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.2.0 - Schedule configurations – Create - Default",
+      "width": 920,
+      "height": 990,
+      "depth": 2
+    },
+    {
+      "id": "232:4518",
+      "name": "2.4.0 - Policy configurations – View - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.4.0 - Policy configurations – View - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "421:15214",
+      "name": "2.3.0 - Policy configurations – Create employees - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.3.0 - Policy configurations – Create employees - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1394:7733",
+      "name": "2.6.0 - Policy configurations – Edit employees - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 2.6.0 - Policy configurations – Edit employees - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:14157",
+      "name": "4.3.0 - Schedule configurations – View - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.3.0 - Schedule configurations – View - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1337:8287",
+      "name": "4.2.1 - Schedule configurations – Create employees - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.2.1 - Schedule configurations – Create employees - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1394:3296",
+      "name": "4.4.1 - Schedule configurations – Edit employees - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > 4.4.1 - Schedule configurations – Edit employees - Default",
+      "width": 920,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "80:12251",
+      "name": "2.1.1 - Time off request - Create - Filled default ",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.1.1 - Time off request - Create - Filled default ",
+      "width": 408,
+      "height": 1110,
+      "depth": 2
+    },
+    {
+      "id": "322:11044",
+      "name": "2.1.2 - Time off request - Create - Filled active",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.1.2 - Time off request - Create - Filled active",
+      "width": 408,
+      "height": 1110,
+      "depth": 2
+    },
+    {
+      "id": "1477:13135",
+      "name": "3.2.0 Transactions - Create manual type - Active",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.2.0 Transactions - Create manual type - Active",
+      "width": 408,
+      "height": 1044,
+      "depth": 2
+    },
+    {
+      "id": "341:9581",
+      "name": "2.1.0 Time off request - View - Ongoing",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 2.1.0 Time off request - View - Ongoing",
+      "width": 408,
+      "height": 1004,
+      "depth": 2
+    },
+    {
+      "id": "319:7401",
+      "name": "1.4.0 - Category configurations – Edit - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.4.0 - Category configurations – Edit - Default",
+      "width": 408,
+      "height": 965,
+      "depth": 2
+    },
+    {
+      "id": "335:9984",
+      "name": "2.1.3 - Time off request - Create - With attachement",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.1.3 - Time off request - Create - With attachement",
+      "width": 408,
+      "height": 958,
+      "depth": 2
+    },
+    {
+      "id": "1126:9960",
+      "name": "3.2.0 - Holiday configurations – Create - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.2.0 - Holiday configurations – Create - Default",
+      "width": 408,
+      "height": 937,
+      "depth": 2
+    },
+    {
+      "id": "1126:9978",
+      "name": "3.2.1 - Holiday configurations – Create - Company holiday view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.2.1 - Holiday configurations – Create - Company holiday view",
+      "width": 408,
+      "height": 937,
+      "depth": 2
+    },
+    {
+      "id": "1126:9994",
+      "name": "3.4.0 - Holiday configurations – Edit - National holiday view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.4.0 - Holiday configurations – Edit - National holiday view",
+      "width": 408,
+      "height": 937,
+      "depth": 2
+    },
+    {
+      "id": "1126:10016",
+      "name": "3.4.1 - Holiday configurations – Edit - Company holiday view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.4.1 - Holiday configurations – Edit - Company holiday view",
+      "width": 408,
+      "height": 937,
+      "depth": 2
+    },
+    {
+      "id": "3:13322",
+      "name": "1.2.0 - Category configurations – Create - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.2.0 - Category configurations – Create - Default",
+      "width": 408,
+      "height": 933,
+      "depth": 2
+    },
+    {
+      "id": "341:9036",
+      "name": "2.2.0 Time off request - View - Past",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 2.2.0 Time off request - View - Past",
+      "width": 408,
+      "height": 932,
+      "depth": 2
+    },
+    {
+      "id": "281:11840",
+      "name": "1.3.0 - Category configurations – View - Default",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > 1.3.0 - Category configurations – View - Default",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:10035",
+      "name": "3.3.0 - Holiday configurations – View - National holiday view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.3.0 - Holiday configurations – View - National holiday view",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1126:10070",
+      "name": "3.3.1 - Holiday configurations – View - Company holiday view",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > 3.3.1 - Holiday configurations – View - Company holiday view",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "288:16001",
+      "name": "2.2.0 - Time off request - Edit - Default ",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.2.0 - Time off request - Edit - Default ",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "322:11847",
+      "name": "2.3.0 - Time off request - View - Past ",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.3.0 - Time off request - View - Past ",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "349:5175",
+      "name": "3.3.1 Transactions - View request type - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.3.1 Transactions - View request type - Default",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "1456:12736",
+      "name": "3.3.0 Transactions - View manual type - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.3.0 Transactions - View manual type - Default",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "349:5778",
+      "name": "3.4.0 Transactions - Edit manual type - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.4.0 Transactions - Edit manual type - Default",
+      "width": 408,
+      "height": 900,
+      "depth": 2
+    },
+    {
+      "id": "328:4973",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 1024,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "80:12125",
+      "name": "2.1.0 - Time off request - Create - Default",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > 2.1.0 - Time off request - Create - Default",
+      "width": 408,
+      "height": 868,
+      "depth": 2
+    },
+    {
+      "id": "345:8758",
+      "name": "3.2.0 Transactions - Create manual type - Default",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > 3.2.0 Transactions - Create manual type - Default",
+      "width": 408,
+      "height": 846,
+      "depth": 2
+    },
+    {
+      "id": "1126:14570",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > screen-info",
+      "width": 722,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:14574",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > screen-info",
+      "width": 722,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:14578",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > screen-info",
+      "width": 722,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "328:4976",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 687,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1036:11320",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 643,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "328:4970",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 599,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "288:16788",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > screen-info",
+      "width": 597,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "941:11003",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 582,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "407:9526",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 569,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "421:15210",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 569,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "88:2840",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 554,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "88:2863",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 500,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "88:3323",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 474,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "175:8265",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > screen-info",
+      "width": 474,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "85:4243",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > flow-info",
+      "width": 614,
+      "height": 274,
+      "depth": 2
+    },
+    {
+      "id": "1126:14562",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > flow-info",
+      "width": 614,
+      "height": 274,
+      "depth": 2
+    },
+    {
+      "id": "328:4966",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 274,
+      "depth": 2
+    },
+    {
+      "id": "3:13294",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 2
+    },
+    {
+      "id": "85:3447",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 2
+    },
+    {
+      "id": "88:3105",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       🌴  Employee view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 2
+    },
+    {
+      "id": "184:4607",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 2
+    },
+    {
+      "id": "345:8748",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > flow-info",
+      "width": 614,
+      "height": 268,
+      "depth": 2
+    },
+    {
+      "id": "175:8444",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 435,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "175:8452",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 435,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "322:5699",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 435,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "175:8428",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 423,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "175:8436",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 423,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:8590",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > screen-info",
+      "width": 366,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:8594",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > screen-info",
+      "width": 366,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:8598",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > screen-info",
+      "width": 366,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:8586",
+      "name": "flow-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > flow-info",
+      "width": 614,
+      "height": 202,
+      "depth": 2
+    },
+    {
+      "id": "345:8826",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > screen-info",
+      "width": 339,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "184:4628",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > screen-info",
+      "width": 336,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "941:10994",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "322:6567",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Time off configurations > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:8602",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Holiday calendar > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "1126:14566",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       ⚙️  Work schedule > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    },
+    {
+      "id": "184:4615",
+      "name": "screen-info",
+      "type": "FRAME",
+      "path": "Document >       🔑  Admin view > screen-info",
+      "width": 281,
+      "height": 356,
+      "depth": 2
+    }
+  ],
+  "imageFills": [
+    {
+      "nodeId": "343:9851",
+      "nodeName": "Code-2022-06-10-40 1",
+      "imageRef": "aecd2a5f02c02aee35f968855469bd6f3b9ac5ea",
+      "path": "Document >       ⚙️  Time off configurations > Code-2022-06-10-40 1",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 257,
+        "height": 339
+      }
+    },
+    {
+      "nodeId": "1337:8342",
+      "nodeName": "Rectangle",
+      "imageRef": "c1a5095dfed57602df795567f4d749daace8fac8",
+      "path": "Document >       ⚙️  Work schedule > 4.2.1 - Schedule configurations – Create employees - Default > cards > Column B > Content > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 63.282920837402344,
+        "height": 65.19438171386719
+      }
+    },
+    {
+      "nodeId": "1337:8345",
+      "nodeName": "Rectangle",
+      "imageRef": "b77d30157f236fb35690b5d92e44660f5bee7d4f",
+      "path": "Document >       ⚙️  Work schedule > 4.2.1 - Schedule configurations – Create employees - Default > cards > Column B > Content > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 31.197731018066406,
+        "height": 67.58370208740234
+      }
+    },
+    {
+      "nodeId": "328:4964",
+      "nodeName": "image 5",
+      "imageRef": "5ea98aeb50a5ecaf0e63b05ea4d346db681a8bf8",
+      "path": "Document >       🌴  Employee view > Time off alert manager/admin > image 5",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 1665,
+        "height": 62
+      }
+    },
+    {
+      "nodeId": "407:10534",
+      "nodeName": "Rectangle",
+      "imageRef": "8c1cca97527f93c45915c4ecd7af11fc3fdc71c3",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 31.167816162109375,
+        "height": 60.610931396484375
+      }
+    },
+    {
+      "nodeId": "407:10555",
+      "nodeName": "Rectangle",
+      "imageRef": "6d54e7c5e60710332feed12f736fcf7ec973adab",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.69389724731445
+      }
+    },
+    {
+      "nodeId": "407:10557",
+      "nodeName": "Rectangle",
+      "imageRef": "29fbcf80862965d9bac94768a9edad2097f94645",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10559",
+      "nodeName": "Rectangle",
+      "imageRef": "aad8acbf7028f51a2e17824b7204d824d1477f54",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10561",
+      "nodeName": "Rectangle",
+      "imageRef": "535d43a482464d8bcbbe057a6f143717a078efc6",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10563",
+      "nodeName": "Rectangle",
+      "imageRef": "f248fd8b704c3614d2293328ffd5dbff47fee0b7",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 27.225643157958984,
+        "height": 50.7554931640625
+      }
+    },
+    {
+      "nodeId": "407:10580",
+      "nodeName": "Rectangle",
+      "imageRef": "a615291ac1ee85949b2d54d416369c9eed71b158",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 101.6957778930664,
+        "height": 62.766807556152344
+      }
+    },
+    {
+      "nodeId": "407:10594",
+      "nodeName": "Rectangle",
+      "imageRef": "231b3148f022510b7744ac565ba8e4a765955328",
+      "path": "Document >       🌴  Employee view > employee view > 1.0.0 - Events balance – Listing - Empty > content > Card > Frame 1000002797 > Content > Group 1000003159 > Group > Capa 1 > Group > Rectangle",
+      "scaleMode": "STRETCH",
+      "imageSize": {
+        "width": 181.89439392089844,
+        "height": 172.03895568847656
+      }
+    },
+    {
+      "nodeId": "407:9343",
+      "nodeName": "Screenshot 2025-01-09 at 6.05.40 p.m. 1",
+      "imageRef": "ccfdaa2a2840deec19174b8e70bc32f8223d8e6f",
+      "path": "Document >       🔑  Admin view > Screenshot 2025-01-09 at 6.05.40 p.m. 1",
+      "scaleMode": "FILL",
+      "imageSize": {
+        "width": 1440,
+        "height": 313
+      }
+    }
+  ],
+  "totalCounts": {
+    "frames": {
+      "total": 96,
+      "rendered": 0,
+      "failed": 0
+    },
+    "imageFills": {
+      "total": 13,
+      "downloaded": 0,
+      "failed": 0
+    },
+    "textNodes": 7319,
+    "components": 455
+  }
+}
